@@ -4,43 +4,47 @@
     "icons":[
         {
             "name":"Free",
-            "url":"https://raw.githubusercontent.com/gloryofchina/fileball-icons/main/emby-icons/Free.png"
+            "url":"https://raw.githubusercontent.com/gloryofchina/Fileball-icons/main/emby-icons/Free.png"
         },
         {
             "name":"Nako",
-            "url":"https://raw.githubusercontent.com/gloryofchina/fileball-icons/main/emby-icons/Nako.png"
+            "url":"https://raw.githubusercontent.com/gloryofchina/Fileball-icons/main/emby-icons/Nako.png"
         },
         {
             "name":"MisakaF",
-            "url":"https://raw.githubusercontent.com/gloryofchina/fileball-icons/main/emby-icons/MisakaF.png"
+            "url":"https://raw.githubusercontent.com/gloryofchina/Fileball-icons/main/emby-icons/MisakaF.png"
         },
         {
             "name":"Misty",
-            "url":"https://raw.githubusercontent.com/gloryofchina/fileball-icons/main/emby-icons/Misty.png"
+            "url":"https://raw.githubusercontent.com/gloryofchina/Fileball-icons/main/emby-icons/Misty.png"
         },
         {
             "name":"CcEmby",
-            "url":"https://raw.githubusercontent.com/gloryofchina/fileball-icons/main/emby-icons/CcEmby.png"
+            "url":"https://raw.githubusercontent.com/gloryofchina/Fileball-icons/main/emby-icons/CcEmby.png"
         },
         {
             "name":"Netcup",
-            "url":"https://raw.githubusercontent.com/gloryofchina/fileball-icons/main/emby-icons/Netcup.png"
+            "url":"https://raw.githubusercontent.com/gloryofchina/Fileball-icons/main/emby-icons/Netcup.png"
         },
         {
             "name":"Loser",
-            "url":"https://raw.githubusercontent.com/gloryofchina/fileball-icons/main/emby-icons/Loser.png"
+            "url":"https://raw.githubusercontent.com/gloryofchina/Fileball-icons/main/emby-icons/Loser.png"
         },
         {
             "name":"Orange",
-            "url":"https://raw.githubusercontent.com/gloryofchina/fileball-icons/main/emby-icons/Orange.png"
+            "url":"https://raw.githubusercontent.com/gloryofchina/Fileball-icons/main/emby-icons/Orange.png"
         },
         {
             "name":"Polo",
-            "url":"https://raw.githubusercontent.com/gloryofchina/fileball-icons/main/emby-icons/Polo.png"
+            "url":"https://raw.githubusercontent.com/gloryofchina/Fileball-icons/main/emby-icons/Polo.png"
         },
         {
             "name":"Peach",
-            "url":"https://raw.githubusercontent.com/gloryofchina/fileball-icons/main/emby-icons/Peach.png"
+            "url":"https://raw.githubusercontent.com/gloryofchina/Fileball-icons/main/emby-icons/Peach.png"
+        },
+        {
+            "name":"BigTV",
+            "url":"https://raw.githubusercontent.com/gloryofchina/Fileball-icons/main/emby-icons/BigTV.png"
         }
     ]
 }
